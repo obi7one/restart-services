@@ -62,3 +62,7 @@ The menu bar version will provide direct access to the available services from t
 The current implementation is intentionally kept simple and focused on performing a small set of system maintenance actions.
 
 The existing AppleScript implementation is preserved as the starting point for future development.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
